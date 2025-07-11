@@ -59,8 +59,7 @@ Este repositorio contiene el material completo del curso "Laboratorio de Introdu
     *   Reutilización de modelos pre-entrenados (ResNet, VGG).
 *   [**Módulo 14: Aplicaciones Avanzadas**](./14_aplicaciones_avanzadas/)
     *   Subtitulado de imágenes y otros proyectos.
-*   **Módulo 99: Proyecto Final**
-    *   Aplicación de todos los conocimientos en un proyecto integrador.
+
 
 ### 🛠️ Instalación y Configuración
 
