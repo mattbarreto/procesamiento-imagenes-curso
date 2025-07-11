@@ -24,40 +24,40 @@ Este repositorio contiene el material completo del curso "Laboratorio de Introdu
 
 ### 📚 Contenido del Curso
 
-*   **Módulo 01: Introducción**
+*   [**Módulo 01: Introducción**](./01_introduccion/)
     *   Fundamentos de la imagen digital.
     *   Configuración del entorno de trabajo.
     *   Introducción a las herramientas interactivas.
-*   **Módulo 02: Python Básico y Entornos de Desarrollo**
+*   [**Módulo 02: Python Básico y Entornos de Desarrollo**](./02_python_basico/)
     *   Programación en Python desde cero.
     *   Introducción a bibliotecas científicas (Numpy, Matplotlib).
-*   **Módulo 03: Procesamiento Básico de Imágenes**
+*   [**Módulo 03: Procesamiento Básico de Imágenes**](./03_procesamiento_basico/)
     *   Manipulación de píxeles y operaciones de punto.
     *   Histogramas y transformaciones de intensidad.
-*   **Módulo 04: Segmentación de Imágenes**
+*   [**Módulo 04: Segmentación de Imágenes**](./04_segmentacion/)
     *   Técnicas de umbralización.
     *   Segmentación basada en color y contornos.
-*   **Módulo 05: Deep Learning y Redes Neuronales**
+*   [**Módulo 05: Deep Learning y Redes Neuronales**](./05_deep_learning/)
     *   Fundamentos de redes neuronales.
     *   Clasificación de imágenes con redes neuronales.
-*   **Módulo 06: Modelos Generativos**
+*   [**Módulo 06: Modelos Generativos**](./06_modelos_generativos/)
     *   Introducción a los modelos de difusión.
     *   Generación de imágenes con Stable Diffusion.
-*   **Módulo 07: Operaciones de Punto**
+*   [**Módulo 07: Operaciones de Punto**](./07_operaciones_punto/)
     *   Ejemplos avanzados de operaciones de punto.
-*   **Módulo 08: Transformaciones Geométricas**
+*   [**Módulo 08: Transformaciones Geométricas**](./08_transformaciones_geometricas/)
     *   Traslación, rotación, escalado y perspectiva.
-*   **Módulo 09: Morfología Matemática**
+*   [**Módulo 09: Morfología Matemática**](./09_morfologia_matematica/)
     *   Erosión, dilatación, apertura y cierre.
-*   **Módulo 10: Visión Computacional con OpenCV**
+*   [**Módulo 10: Visión Computacional con OpenCV**](./10_vision_computacional_opencv/)
     *   Template matching, detección de objetos y más.
-*   **Módulo 11: Restauración de Imágenes**
+*   [**Módulo 11: Restauración de Imágenes**](./11_restauracion_imagenes/)
     *   Eliminación de ruido y mejora de la calidad.
-*   **Módulo 12: Redes Neuronales Convolucionales (CNN)**
+*   [**Módulo 12: Redes Neuronales Convolucionales (CNN)**](./12_redes_neuronales_convolucionales/)
     *   Arquitectura y funcionamiento de las CNNs.
-*   **Módulo 13: Transfer Learning**
+*   [**Módulo 13: Transfer Learning**](./13_transfer_learning/)
     *   Reutilización de modelos pre-entrenados (ResNet, VGG).
-*   **Módulo 14: Aplicaciones Avanzadas**
+*   [**Módulo 14: Aplicaciones Avanzadas**](./14_aplicaciones_avanzadas/)
     *   Subtitulado de imágenes y otros proyectos.
 *   **Módulo 99: Proyecto Final**
     *   Aplicación de todos los conocimientos en un proyecto integrador.
